@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2021-03-02T04:01:10-03:00
-draft: true
+draft: false
 ---
 
 ## Technical Skills
