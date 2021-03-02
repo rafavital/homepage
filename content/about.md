@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-01-20T20:55:33-03:00
-draft: true
+draft: false
 ---
 Hello, my name is Rafael Vital and I'm a Brazilian Indie Game Developer. 
 
